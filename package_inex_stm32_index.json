@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "INEX_STM32",
-      "websiteURL": "http://www.inex.co.th",
-      "maintainer": "INEX",
+      "name": "INEX_STM52",
+      "websiteURL": "http://www.unknow.xyz",
+      "maintainer": "Unknow",
       "email": "dev@inex.co.th",
       "help": {
-        "online": "http://www.inex.co.th"
+        "online": "http://www.unknow.xyz"
       },
       "platforms": [
         {
@@ -49,7 +49,7 @@
           "checksum": "SHA-256:0db3f524306c0cc5830cd0e5724058c98d4dba56e2c7ff44128a24a63dcaa214",
           "size": "42569441",
           "boards": [
-            {"name": "POP-32"}
+            {"name": "POP-52"}
           ],
           "toolsDependencies": [
             {
