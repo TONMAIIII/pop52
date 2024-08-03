@@ -25,7 +25,7 @@
             {
               "packager": "INEX_STM32",
               "name": "xpack-arm-none-eabi-gcc",
-              "version": "13.2.1-1.1"
+              "version": "10.3.1-2.3"
             },
             {
               "packager": "INEX_STM32",
@@ -55,7 +55,7 @@
             {
               "packager": "INEX_STM32",
               "name": "xpack-arm-none-eabi-gcc",
-              "version": "13.2.1-1.1"
+              "version": "10.3.1-2.3"
             },
             {
               "packager": "INEX_STM32",
@@ -73,7 +73,7 @@
       "tools": [
         {
           "name": "xpack-arm-none-eabi-gcc",
-          "version": "13.2.1-1.1",
+          "version": "10.3.1-2.3",
           "systems":
           [
             {
